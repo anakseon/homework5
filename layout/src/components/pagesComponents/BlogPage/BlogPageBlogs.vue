@@ -1,6 +1,6 @@
 <template>
    <section class="blog center">
-      <h2 class="blog__title-left">Articles & News</h2>
+      <h2 class="blog__title-left">Статьи & Новости</h2>
       <ArticlesComponent :quantity="6"></ArticlesComponent>
       <div class="count__page">
          <div class="count__page-wrap">
